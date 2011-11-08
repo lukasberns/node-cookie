@@ -20,7 +20,7 @@
     "node": ">=0.4.12"
   },
   "dependencies": {
-    "punycode": "https://github.com/goinstant/Node-PunyCode/tarball/master"
+    "node-punycode": "https://github.com/lukasberns/Node-PunyCode/tarball/master"
   },
   "devDependencies": {
     "vows": ">=0.5.11",
