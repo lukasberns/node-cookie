@@ -4,13 +4,13 @@
   "description": "RFC6265 Cookies and Cookie Jar for node.js",
   "keywords": "HTTP cookie cookies set-cookie cookiejar jar RFC6265 RFC2965",
   "version": "0.9.3",
-  "homepage": "https://github.com/goinstant/node-cookie",
+  "homepage": "https://github.com/lukasberns/node-cookie",
   "repository": {
     "type": "git",
-    "url": "git://github.com/goinstant/node-cookie.git"
+    "url": "git://github.com/lukasberns/node-cookie.git"
   },
   "bugs": {
-    "url": "https://github.com/goinstant/node-cookie/issues"
+    "url": "https://github.com/lukasberns/node-cookie/issues"
   },
   "main": "./lib/cookie",
   "scripts": {
